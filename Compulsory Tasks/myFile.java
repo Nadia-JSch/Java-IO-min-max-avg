@@ -92,7 +92,6 @@ public class myFile {
 				}
 				
 				//find the SUM of a line in input.txt and writing it to output.txt
-				// * NOTE: 1+2+3+4+5+6 is 21 not 17 like in the pdf?
 				if (input.contains("Sum")) {
 					// get substring without word and store it in its variable
 					sumStr = input.substring(5, input.length());
