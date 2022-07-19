@@ -20,3 +20,11 @@ The 90th percentile of [1,2,3,4,5,6,7,8,9,10] is 9.
 * java.util.Arrays (for toString method)
 * input.txt
 * output.txt
+
+## Author
+
+Nadia Schmidtke [Email me](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Java-IO-min-max-avg/blob/master/LICENSE).
